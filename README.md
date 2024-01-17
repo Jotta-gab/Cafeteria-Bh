@@ -14,8 +14,7 @@ Este é um projeto simples desenvolvido em Bootstrap, criado para um trabalho de
 
 ## Layout
 <div align="center">
-  <img src="https://github.com/Jotta-gab/Fit-Club-Project/assets/134981382/f3cb0674-50ab-44b1-b8c6-666393defb23" width="1000px"/> 
-  <!-- Certifique-se de fornecer um caminho de imagem válido para o projeto -->
+  <img src="https://github.com/Jotta-gab/Cafeteria-Bh/assets/134981382/80dfb02a-2f45-41ae-84f4-24f12555cd91" width="1000px"/> 
 </div>
 
 ## Como usar?
