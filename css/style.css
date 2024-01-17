@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+:root{
+    --cor-titulo:#8B4513;
+    --background:#CD853F;
+    --background-hover:#D2691E;
+    --fonte:font-family: 'Ubuntu', sans-serif;
+    --cor-fonte:#000000;
+    --cor-navbar:#f8f8f8;
+}
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--cor-fonte);
+}
+
+.navbar-custom{
+   background-color: var(--background);
+}
+
+h1,h2,h3{
+    color: var(--cor-titulo);
+    font-weight: 800;
+}
+
+.botao-custom{
+    background-color:var(--background) ;
+    border: none;
+}
+
+:hover.botao-custom{
+    background-color: var(--background-hover);
+}
+
+.titulo{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: var(--cor-navbar);
+}
+
+i{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #8d8d8d;
+}
+
+.fa-twitter:hover{
+color: lightskyblue;
+}
+
+.fa-instagram:hover{
+    color: #DC143C;
+    }
+
+.fa-facebook:hover{
+    color: #1644d0;
+    }
+
