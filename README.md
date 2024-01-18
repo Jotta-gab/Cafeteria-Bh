@@ -20,5 +20,5 @@ Este é um projeto simples desenvolvido em Bootstrap, criado para um trabalho de
 ## Como usar?
 - Os usuários podem acessar o site diretamente no navegador.
 
-## Link do Projeto: (Adicione o link aqui)
+## Link do Projeto: 
 - https://cafeterias-bh.vercel.app/index.html
